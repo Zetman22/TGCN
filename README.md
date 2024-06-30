@@ -1,6 +1,6 @@
 # TGCN
 
-An official PyTorch implementation of TGCN described in ["A Novel Approach to Multi-Channel Speech Enhancement Based on Graph Neural Networks"](https://ieeexplore.ieee.org/document/10387735) by Chau Hoang Ngoc, Tien Dat Bui, Huu Binh Nguyen, Thanh TH Duong, and Quoc Cuong Nguyen.
+An official PyTorch implementation of the temporal graph convolutional network (TGCN) for speech enhancement described in ["A Novel Approach to Multi-Channel Speech Enhancement Based on Graph Neural Networks"](https://ieeexplore.ieee.org/document/10387735) by Chau Hoang Ngoc, Tien Dat Bui, Huu Binh Nguyen, Thanh TH Duong, and Quoc Cuong Nguyen.
 
 ## Requirements
 
