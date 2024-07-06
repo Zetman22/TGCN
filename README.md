@@ -19,4 +19,4 @@ pytorch 1.11.0, scipy 1.8.0
 ```
 
 ## Acknowledgement
-This repo partially uses code from [deep_gcns_torch](https://github.com/lightaime/deep_gcns_torch) and [dccrn](https://github.com/huyanxin/DeepComplexCRN).
+This repo partially uses code from [vig_pytorch](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/vig_pytorch) and [dccrn](https://github.com/huyanxin/DeepComplexCRN).
